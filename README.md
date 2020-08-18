@@ -7,8 +7,7 @@
 [![You Tube Badge](https://img.shields.io/badge/-Arthur%20Bryan-00008b?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCdIXgiTrLqKQcTJNFu81dqA)](https://www.youtube.com/channel/UCdIXgiTrLqKQcTJNFu81dqA)
 [![Gmail Badge](https://img.shields.io/badge/-arthurbryan2030@gmail.com-00008b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurbryan2030@gmail.com)](mailto:arthurbryan2030@gmail.com)
 
-
-![alt text](https://apicesistemasdeenergia.com.br/wp-content/uploads/2018/05/datacentergoogle-1200x480.jpg)
+![github](https://user-images.githubusercontent.com/34891953/90524683-bf326c80-e144-11ea-9474-f8b0ce82aef4.jpeg)
 
 #### 🔭 I’m currently working on a project (hobbie) that helps to configure various Cisco devices like switches and routers by using scripts to automate this task.
 #### 🌱 I’m currently learning about networking and Cisco with the objective of taking certifications. Always learning more about security and programming.
