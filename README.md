@@ -9,5 +9,3 @@
 
 ![github](https://user-images.githubusercontent.com/34891953/90524683-bf326c80-e144-11ea-9474-f8b0ce82aef4.jpeg)
 
-#### 🔭 I’m currently working on a project (hobbie) that helps to configure various Cisco devices like switches and routers by using scripts to automate this task.
-#### 🌱 I’m currently learning about networking and Cisco with the objective of taking certifications. Always learning more about security and programming.
