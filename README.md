@@ -16,6 +16,10 @@
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/arthur-bryan?tab=repositories&q=&type=&language=c)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/arthur-bryan?tab=repositories&q=&type=&language=c++)
 -->
+### ⚡ &nbsp;About Me
 
+💡 &nbsp;I like to explore programming, automation, networking and cibersecurity.\
+🎓 &nbsp;I'm currently studying Computer Networking at the Instituto Federal da Paraíba (João Pessoa - Brasil).\
+🌱 &nbsp;I'm on track for learning more about Reverse Enginnering and Artificial Intelligence.\
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=arthur-bryan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=00eef6&icon_color=fff600&bg_color=0,330095,0f0037,330095&theme=yeblu" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-bryan&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=00eef6&icon_color=fff600&bg_color=0,330095,0f0037,330095&theme=yeblu" /></a>
