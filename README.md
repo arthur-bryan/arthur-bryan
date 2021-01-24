@@ -7,5 +7,5 @@
 [![You Tube Badge](https://img.shields.io/badge/-Arthur%20Bryan-00008b?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCdIXgiTrLqKQcTJNFu81dqA)](https://www.youtube.com/channel/UCdIXgiTrLqKQcTJNFu81dqA)
 [![Gmail Badge](https://img.shields.io/badge/-arthurbryan2030@gmail.com-00008b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurbryan2030@gmail.com)](mailto:arthurbryan2030@gmail.com)
 
-![github](https://user-images.githubusercontent.com/34891953/90524683-bf326c80-e144-11ea-9474-f8b0ce82aef4.jpeg)
 
+<a href="https://www.adamalston.com/"><img height="142px" src="https://github-readme-stats.vercel.app/api?username=arthur-bryan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=00eef6&icon_color=fff600&bg_color=0,330095,0f0037,330095&theme=yeblu" /><!-- wi*quL3fcV --><img height="142px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-bryan&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=00eef6&icon_color=fff600&bg_color=0,330095,0f0037,330095&theme=yeblu" /></a>
