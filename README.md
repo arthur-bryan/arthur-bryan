@@ -20,11 +20,11 @@
 -   Computer Networks
 -   Programming
 -   Cyber Security
--   Linux \
+-   Linux
 
-🎓 &nbsp; Education \
+🎓 &nbsp; Education
 -   Currently studying higher education in Computer Network Technologies
--   Technician in Computer Networks \
+-   Technician in Computer Networks
 
 <a href="https://arthur-bryan.github.io/website/"><img height="135px" src="https://github-readme-stats.vercel.app/api?username=arthur-bryan&theme=algolia&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&" /><!-- wi*quL3fcV --><img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-bryan&layout=compact&theme=algolia&hide_title=true&hide_border=true&langs_count=6" /></a>
 
